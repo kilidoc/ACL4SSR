@@ -1612,6 +1612,7 @@
 [proxy_list]
 
 # MyList
+(^|\.)magi\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
 (^|\.)cccat\.io$
